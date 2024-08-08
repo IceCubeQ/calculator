@@ -53,7 +53,8 @@ h1 {
 #plus {
     background-color: #459059;
     margin-right: 10px;
-}
+    /* margin-left: 15px; */
+} 
 
 #plus:hover {
     background-color: #3a794b;
@@ -62,6 +63,7 @@ h1 {
 #minus {
     background-color: #bf354a;
     margin-left: 10px;
+    /* margin-left: 15px; */
 }
 
 #minus:hover {
@@ -71,6 +73,8 @@ h1 {
 #um {
     margin-top: 10px;
     background-color: #0f81da;
+    /* margin-left: 15px;
+    margin-left: 15px; */
 }
 
 #um:hover {
@@ -79,6 +83,8 @@ h1 {
 
 #del {
     background-color: #cab247;
+    /* margin-left: 15px;
+    margin-left: 15px; */
 }
 
 #del:hover {
@@ -121,6 +127,6 @@ h1 {
 
 @media(max-width: 510px) {
     .content {
-        max-width: 400px;
+        width: 425px;
     }
 }
