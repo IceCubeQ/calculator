@@ -45,6 +45,11 @@ h1 {
     margin-right: 0;
 } */
 
+.v {
+    margin: auto;
+    text-align: center;
+}
+
 #plus {
     background-color: #459059;
     margin-right: 10px;
